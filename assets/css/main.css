@@ -1437,3 +1437,10 @@ body.is-loading #header.alt .inner {
 .main p {
   color: #000;
 }
+#registro-conversion label {
+  margin-top: 25px;
+  margin-bottom: 5px;
+}
+#registro-conversion input[type="submit"] {
+  margin-top: 50px;
+}
